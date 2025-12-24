@@ -1,0 +1,24 @@
+# Ignore Visual Studio workspace
+.vs/
+
+# Ignore build output
+Debug/
+Release/
+x64/
+x86/
+
+# Ignore compiled files
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.ilk
+*.log
+
+# Ignore user-specific files
+*.user
+*.suo
+*.VC.db
+*.cache
+*.opendb
